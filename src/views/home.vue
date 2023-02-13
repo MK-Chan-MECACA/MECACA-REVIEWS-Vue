@@ -75,8 +75,8 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="raw368l"></span></span>
-          <span><span v-html="rawbvu3"></span></span>
+          <span><span v-html="rawjxa4"></span></span>
+          <span><span v-html="rawk3xa"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
@@ -115,17 +115,17 @@
         />
         <img
           alt="image"
-          src="/playground_assets/harbour-200h.png"
+          src="/playground_assets/gi-logo-200h.png"
           class="home-image06"
         />
         <img
           alt="image"
-          src="/playground_assets/hamel-200h.png"
+          src="/playground_assets/hamel%20%5B1%5D-200h.png"
           class="home-image07"
         />
         <img
           alt="image"
-          src="/playground_assets/gi-200h.png"
+          src="/playground_assets/artweme-200h.png"
           class="home-image08"
         />
       </div>
@@ -255,8 +255,8 @@
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="rawagv2"></span></span>
-          <span><span v-html="rawxlze"></span></span>
+          <span><span v-html="raw8uo8"></span></span>
+          <span><span v-html="rawxb0m"></span></span>
         </span>
       </div>
       <img
@@ -418,10 +418,10 @@ export default {
   },
   data() {
     return {
-      raw368l: ' ',
-      rawbvu3: ' ',
-      rawagv2: ' ',
-      rawxlze: ' ',
+      rawjxa4: ' ',
+      rawk3xa: ' ',
+      raw8uo8: ' ',
+      rawxb0m: ' ',
     }
   },
   metaInfo: {
@@ -611,7 +611,7 @@ export default {
   margin-bottom: var(--dl-space-space-threeunits);
 }
 .home-container03 {
-  gap: var(--dl-space-space-sixunits);
+  gap: var(--dl-space-space-fourunits);
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -620,11 +620,11 @@ export default {
   justify-content: center;
 }
 .home-image03 {
-  width: var(--dl-size-size-large);
+  width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
 .home-image04 {
-  width: var(--dl-size-size-large);
+  width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
 .home-image05 {
@@ -632,11 +632,11 @@ export default {
   object-fit: cover;
 }
 .home-image06 {
-  width: var(--dl-size-size-large);
+  width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
 .home-image07 {
-  width: var(--dl-size-size-large);
+  width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
 .home-image08 {
@@ -993,6 +993,7 @@ export default {
 .home-icon10 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-unit);
   text-decoration: none;
 }
 .home-link11 {
@@ -1008,8 +1009,9 @@ export default {
   display: contents;
 }
 .home-icon14 {
-  width: 24px;
+  width: var(--dl-size-size-xsmall);
   height: 24px;
+  margin-right: var(--dl-space-space-unit);
   text-decoration: none;
 }
 .home-link13 {
@@ -1366,8 +1368,11 @@ export default {
     flex-wrap: wrap;
     justify-content: center;
   }
-  .home-image08 {
-    width: var(--dl-size-size-large);
+  .home-image05 {
+    width: var(--dl-size-size-xlarge);
+  }
+  .home-image06 {
+    width: var(--dl-size-size-xlarge);
   }
   .home-hero1 {
     padding-top: var(--dl-space-space-twounits);
