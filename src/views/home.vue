@@ -24,7 +24,9 @@
           SCHEDULE A DEMO
         </a>
       </div>
-      <navigation-links rootClassName="rootClassName11"></navigation-links>
+      <div data-role="BurgerMenu" class="home-burger-menu">
+        <navigation-links rootClassName="rootClassName11"></navigation-links>
+      </div>
     </header>
     <div class="home-hero">
       <div class="home-container01">
@@ -35,8 +37,8 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="rawr5xx"></span></span>
-          <span><span v-html="rawf19z"></span></span>
+          <span><span v-html="raw1zxt"></span></span>
+          <span><span v-html="rawxghj"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
@@ -215,8 +217,8 @@
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="rawtfyx"></span></span>
-          <span><span v-html="raw2i5j"></span></span>
+          <span><span v-html="raw9wxw"></span></span>
+          <span><span v-html="rawuud7"></span></span>
         </span>
       </div>
       <img
@@ -378,10 +380,10 @@ export default {
   },
   data() {
     return {
-      rawr5xx: ' ',
-      rawf19z: ' ',
-      rawtfyx: ' ',
-      raw2i5j: ' ',
+      raw1zxt: ' ',
+      rawxghj: ' ',
+      raw9wxw: ' ',
+      rawuud7: ' ',
     }
   },
   metaInfo: {
@@ -449,6 +451,9 @@ export default {
   border-radius: 20px;
   text-decoration: none;
   background-color: rgb(0, 0, 0);
+}
+.home-burger-menu {
+  display: none;
 }
 .home-hero {
   width: 100%;
@@ -1097,6 +1102,11 @@ export default {
   }
   .home-btn-group {
     display: none;
+  }
+  .home-burger-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   .home-hero {
     padding-left: var(--dl-space-space-twounits);

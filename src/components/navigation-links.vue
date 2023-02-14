@@ -56,7 +56,7 @@ export default {
 }
 @media(max-width: 479px) {
   .navigation-links-text {
-    font-size: 18px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 700;
     margin-right: var(--dl-space-space-unit);
