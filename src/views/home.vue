@@ -24,50 +24,10 @@
           SCHEDULE A DEMO
         </a>
       </div>
-      <div data-role="BurgerMenu" class="home-burger-menu">
-        <svg viewBox="0 0 1024 1024" class="home-icon">
-          <path
-            d="M128 554.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 298.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667zM128 810.667h768c23.552 0 42.667-19.115 42.667-42.667s-19.115-42.667-42.667-42.667h-768c-23.552 0-42.667 19.115-42.667 42.667s19.115 42.667 42.667 42.667z"
-          ></path>
-        </svg>
-        <div data-role="MobileMenu" class="home-mobile-menu">
-          <div class="home-nav">
-            <div class="home-container01">
-              <img
-                alt="image"
-                src="/playground_assets/mecaca%20reviews-1500h.png"
-                class="home-image01"
-              />
-              <div data-role="CloseMobileMenu" class="home-menu-close">
-                <svg viewBox="0 0 1024 1024" class="home-icon02">
-                  <path
-                    d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
-                  ></path>
-                </svg>
-              </div>
-            </div>
-            <navigation-links rootClassName="rootClassName11"></navigation-links>
-          </div>
-          <div>
-            <svg viewBox="0 0 950.8571428571428 1024" class="home-icon04">
-              <path
-                d="M925.714 233.143c-25.143 36.571-56.571 69.143-92.571 95.429 0.571 8 0.571 16 0.571 24 0 244-185.714 525.143-525.143 525.143-104.571 0-201.714-30.286-283.429-82.857 14.857 1.714 29.143 2.286 44.571 2.286 86.286 0 165.714-29.143 229.143-78.857-81.143-1.714-149.143-54.857-172.571-128 11.429 1.714 22.857 2.857 34.857 2.857 16.571 0 33.143-2.286 48.571-6.286-84.571-17.143-148-91.429-148-181.143v-2.286c24.571 13.714 53.143 22.286 83.429 23.429-49.714-33.143-82.286-89.714-82.286-153.714 0-34.286 9.143-65.714 25.143-93.143 90.857 112 227.429 185.143 380.571 193.143-2.857-13.714-4.571-28-4.571-42.286 0-101.714 82.286-184.571 184.571-184.571 53.143 0 101.143 22.286 134.857 58.286 41.714-8 81.714-23.429 117.143-44.571-13.714 42.857-42.857 78.857-81.143 101.714 37.143-4 73.143-14.286 106.286-28.571z"
-              ></path></svg
-            ><svg viewBox="0 0 877.7142857142857 1024" class="home-icon06">
-              <path
-                d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
-              ></path></svg
-            ><svg viewBox="0 0 602.2582857142856 1024" class="home-icon08">
-              <path
-                d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"
-              ></path>
-            </svg>
-          </div>
-        </div>
-      </div>
+      <navigation-links rootClassName="rootClassName11"></navigation-links>
     </header>
     <div class="home-hero">
-      <div class="home-container02">
+      <div class="home-container01">
         <h1 class="home-heading">IMPROVE YOUR ONLINE REPUTATION</h1>
         <span class="home-text">
           <span>
@@ -75,8 +35,8 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="rawy374"></span></span>
-          <span><span v-html="rawdhez"></span></span>
+          <span><span v-html="rawr5xx"></span></span>
+          <span><span v-html="rawf19z"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
@@ -92,46 +52,46 @@
       <img
         alt="image"
         src="/playground_assets/group-4319%20%5B1%5D-1500h.png"
-        class="home-image02"
+        class="home-image01"
       />
     </div>
     <div class="home-features">
       <h1 class="home-text05">USED BY 300+ LOCAL BUSINESSES WORLDWIDE</h1>
-      <div class="home-container03">
+      <div class="home-container02">
         <img
           alt="image"
           src="/playground_assets/soundlife-hearing-200h.png"
-          class="home-image03"
+          class="home-image02"
         />
         <img
           alt="image"
           src="/playground_assets/ydyw-1-200h.png"
-          class="home-image04"
+          class="home-image03"
         />
         <img
           alt="image"
           src="/playground_assets/health%20shine-200h.png"
-          class="home-image05"
+          class="home-image04"
         />
         <img
           alt="image"
           src="/playground_assets/gi-logo-200h.png"
-          class="home-image06"
+          class="home-image05"
         />
         <img
           alt="image"
           src="/playground_assets/hamel%20%5B1%5D-200h.png"
-          class="home-image07"
+          class="home-image06"
         />
         <img
           alt="image"
           src="/playground_assets/artweme-200h.png"
-          class="home-image08"
+          class="home-image07"
         />
       </div>
     </div>
     <div class="home-hero1">
-      <div class="home-container04">
+      <div class="home-container03">
         <span class="home-text06">GET REVIEWS</span>
         <h1 class="home-text07">
           GET NEW POSITIVE REVIEWS, AVOID THE NEGATIVE ONES
@@ -166,16 +126,16 @@
       <img
         alt="image"
         src="/playground_assets/group-3693-6%20%5B1%5D-1400w.png"
-        class="home-image09"
+        class="home-image08"
       />
     </div>
     <div class="home-hero2">
       <img
         alt="image"
         src="/playground_assets/group-4349-2-1%20%5B1%5D-1500h.png"
-        class="home-image10"
+        class="home-image09"
       />
-      <div class="home-container05">
+      <div class="home-container04">
         <span class="home-text16">MONITOR AND REPLY</span>
         <h1 class="home-text17">
           MONITOR AND REPLY TO ALL THE REVIEWS FROM ONE PLACE.
@@ -209,7 +169,7 @@
       </div>
     </div>
     <div class="home-hero3">
-      <div class="home-container06">
+      <div class="home-container05">
         <span class="home-text26">
           <span>SHARE REVIEWS</span>
           <br />
@@ -247,22 +207,22 @@
       <img
         alt="image"
         src="/playground_assets/group-4349%20%5B1%5D-1400w.png"
-        class="home-image11"
+        class="home-image10"
       />
     </div>
     <div class="home-hero4">
-      <div class="home-container07">
+      <div class="home-container06">
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="rawn501"></span></span>
-          <span><span v-html="rawtahi"></span></span>
+          <span><span v-html="rawtfyx"></span></span>
+          <span><span v-html="raw2i5j"></span></span>
         </span>
       </div>
       <img
         alt="image"
         src="/playground_assets/group-4295-4%20%5B1%5D-1500h.png"
-        class="home-image12"
+        class="home-image11"
       />
       <h1 class="home-text43">START TODAY</h1>
       <a
@@ -275,12 +235,12 @@
       </a>
     </div>
     <footer class="home-footer">
-      <div class="home-container08">
+      <div class="home-container07">
         <div class="home-logo">
           <img
             alt="logo"
             src="/playground_assets/mecaca%20reviews%203-200h.png"
-            class="home-image13"
+            class="home-image12"
           />
           <span class="home-text44">
             Easily manage and monitor your online reviews with MECACA / REVIEWS.
@@ -288,8 +248,8 @@
             your business reputation and customer satisfaction.
           </span>
         </div>
-        <div class="home-container09">
-          <div class="home-container10">
+        <div class="home-container08">
+          <div class="home-container09">
             <div class="home-product-container">
               <span class="home-text45">Product</span>
               <a
@@ -346,14 +306,14 @@
               <div class="home-socials">
                 <span class="home-text53">Follow Us</span>
               </div>
-              <div class="home-icon-group1">
+              <div class="home-icon-group">
                 <a
                   href="https://www.facebook.com/mecaca.global.network/"
                   target="_blank"
                   rel="noreferrer noopener"
                   class="home-link10"
                 >
-                  <svg viewBox="0 0 602.2582857142856 1024" class="home-icon10">
+                  <svg viewBox="0 0 602.2582857142856 1024" class="home-icon">
                     <path
                       d="M548 6.857v150.857h-89.714c-70.286 0-83.429 33.714-83.429 82.286v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571c0-144.571 88.571-223.429 217.714-223.429 61.714 0 114.857 4.571 130.286 6.857z"
                     ></path>
@@ -365,7 +325,7 @@
                   rel="noreferrer noopener"
                   class="home-link11"
                 >
-                  <svg viewBox="0 0 877.7142857142857 1024" class="home-icon12">
+                  <svg viewBox="0 0 877.7142857142857 1024" class="home-icon2">
                     <path
                       d="M585.143 512c0-80.571-65.714-146.286-146.286-146.286s-146.286 65.714-146.286 146.286 65.714 146.286 146.286 146.286 146.286-65.714 146.286-146.286zM664 512c0 124.571-100.571 225.143-225.143 225.143s-225.143-100.571-225.143-225.143 100.571-225.143 225.143-225.143 225.143 100.571 225.143 225.143zM725.714 277.714c0 29.143-23.429 52.571-52.571 52.571s-52.571-23.429-52.571-52.571 23.429-52.571 52.571-52.571 52.571 23.429 52.571 52.571zM438.857 152c-64 0-201.143-5.143-258.857 17.714-20 8-34.857 17.714-50.286 33.143s-25.143 30.286-33.143 50.286c-22.857 57.714-17.714 194.857-17.714 258.857s-5.143 201.143 17.714 258.857c8 20 17.714 34.857 33.143 50.286s30.286 25.143 50.286 33.143c57.714 22.857 194.857 17.714 258.857 17.714s201.143 5.143 258.857-17.714c20-8 34.857-17.714 50.286-33.143s25.143-30.286 33.143-50.286c22.857-57.714 17.714-194.857 17.714-258.857s5.143-201.143-17.714-258.857c-8-20-17.714-34.857-33.143-50.286s-30.286-25.143-50.286-33.143c-57.714-22.857-194.857-17.714-258.857-17.714zM877.714 512c0 60.571 0.571 120.571-2.857 181.143-3.429 70.286-19.429 132.571-70.857 184s-113.714 67.429-184 70.857c-60.571 3.429-120.571 2.857-181.143 2.857s-120.571 0.571-181.143-2.857c-70.286-3.429-132.571-19.429-184-70.857s-67.429-113.714-70.857-184c-3.429-60.571-2.857-120.571-2.857-181.143s-0.571-120.571 2.857-181.143c3.429-70.286 19.429-132.571 70.857-184s113.714-67.429 184-70.857c60.571-3.429 120.571-2.857 181.143-2.857s120.571-0.571 181.143 2.857c70.286 3.429 132.571 19.429 184 70.857s67.429 113.714 70.857 184c3.429 60.571 2.857 120.571 2.857 181.143z"
                     ></path>
@@ -377,7 +337,7 @@
                   rel="noreferrer noopener"
                   class="home-link12"
                 >
-                  <svg viewBox="0 0 1024 1024" class="home-icon14">
+                  <svg viewBox="0 0 1024 1024" class="home-icon4">
                     <path
                       d="M406.286 644.571l276.571-142.857-276.571-144.571v287.429zM512 152c215.429 0 358.286 10.286 358.286 10.286 20 2.286 64 2.286 102.857 43.429 0 0 31.429 30.857 40.571 101.714 10.857 82.857 10.286 165.714 10.286 165.714v77.714s0.571 82.857-10.286 165.714c-9.143 70.286-40.571 101.714-40.571 101.714-38.857 40.571-82.857 40.571-102.857 42.857 0 0-142.857 10.857-358.286 10.857v0c-266.286-2.286-348-10.286-348-10.286-22.857-4-74.286-2.857-113.143-43.429 0 0-31.429-31.429-40.571-101.714-10.857-82.857-10.286-165.714-10.286-165.714v-77.714s-0.571-82.857 10.286-165.714c9.143-70.857 40.571-101.714 40.571-101.714 38.857-41.143 82.857-41.143 102.857-43.429 0 0 142.857-10.286 358.286-10.286v0z"
                     ></path>
@@ -389,7 +349,7 @@
                   rel="noreferrer noopener"
                   class="home-link13"
                 >
-                  <svg viewBox="0 0 950.8571428571428 1024" class="home-icon16">
+                  <svg viewBox="0 0 950.8571428571428 1024" class="home-icon6">
                     <path
                       d="M925.714 233.143c-25.143 36.571-56.571 69.143-92.571 95.429 0.571 8 0.571 16 0.571 24 0 244-185.714 525.143-525.143 525.143-104.571 0-201.714-30.286-283.429-82.857 14.857 1.714 29.143 2.286 44.571 2.286 86.286 0 165.714-29.143 229.143-78.857-81.143-1.714-149.143-54.857-172.571-128 11.429 1.714 22.857 2.857 34.857 2.857 16.571 0 33.143-2.286 48.571-6.286-84.571-17.143-148-91.429-148-181.143v-2.286c24.571 13.714 53.143 22.286 83.429 23.429-49.714-33.143-82.286-89.714-82.286-153.714 0-34.286 9.143-65.714 25.143-93.143 90.857 112 227.429 185.143 380.571 193.143-2.857-13.714-4.571-28-4.571-42.286 0-101.714 82.286-184.571 184.571-184.571 53.143 0 101.143 22.286 134.857 58.286 41.714-8 81.714-23.429 117.143-44.571-13.714 42.857-42.857 78.857-81.143 101.714 37.143-4 73.143-14.286 106.286-28.571z"
                     ></path>
@@ -418,10 +378,10 @@ export default {
   },
   data() {
     return {
-      rawy374: ' ',
-      rawdhez: ' ',
-      rawn501: ' ',
-      rawtahi: ' ',
+      rawr5xx: ' ',
+      rawf19z: ' ',
+      rawtfyx: ' ',
+      raw2i5j: ' ',
     }
   },
   metaInfo: {
@@ -490,64 +450,6 @@ export default {
   text-decoration: none;
   background-color: rgb(0, 0, 0);
 }
-.home-burger-menu {
-  display: none;
-}
-.home-icon {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
-.home-mobile-menu {
-  top: 0px;
-  left: 0px;
-  width: 100%;
-  height: 100vh;
-  display: none;
-  padding: 32px;
-  z-index: 100;
-  position: absolute;
-  flex-direction: column;
-  justify-content: space-between;
-  background-color: #fff;
-}
-.home-nav {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-}
-.home-container01 {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  margin-bottom: var(--dl-space-space-threeunits);
-  justify-content: space-between;
-}
-.home-image01 {
-  height: 2rem;
-}
-.home-menu-close {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.home-icon02 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
-.home-icon04 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-  margin-right: var(--dl-space-space-twounits);
-}
-.home-icon06 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-  margin-right: var(--dl-space-space-twounits);
-}
-.home-icon08 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
 .home-hero {
   width: 100%;
   display: flex;
@@ -558,7 +460,7 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.home-container02 {
+.home-container01 {
   display: flex;
   margin-right: var(--dl-space-space-threeunits);
   padding-right: var(--dl-space-space-threeunits);
@@ -594,7 +496,7 @@ export default {
   color: var(--dl-color-gray-white);
   background-color: var(--dl-color-primary-100);
 }
-.home-image02 {
+.home-image01 {
   width: 600px;
   object-fit: cover;
 }
@@ -610,7 +512,7 @@ export default {
   text-align: center;
   margin-bottom: var(--dl-space-space-threeunits);
 }
-.home-container03 {
+.home-container02 {
   gap: var(--dl-space-space-fourunits);
   flex: 0 0 auto;
   width: 100%;
@@ -619,16 +521,20 @@ export default {
   align-items: center;
   justify-content: center;
 }
+.home-image02 {
+  width: var(--dl-size-size-xlarge);
+  object-fit: cover;
+}
 .home-image03 {
   width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
 .home-image04 {
-  width: var(--dl-size-size-xlarge);
+  width: var(--dl-size-size-large);
   object-fit: cover;
 }
 .home-image05 {
-  width: var(--dl-size-size-large);
+  width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
 .home-image06 {
@@ -636,10 +542,6 @@ export default {
   object-fit: cover;
 }
 .home-image07 {
-  width: var(--dl-size-size-xlarge);
-  object-fit: cover;
-}
-.home-image08 {
   width: var(--dl-size-size-xlarge);
   object-fit: cover;
 }
@@ -653,7 +555,7 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.home-container04 {
+.home-container03 {
   display: flex;
   margin-right: var(--dl-space-space-threeunits);
   padding-right: var(--dl-space-space-threeunits);
@@ -688,7 +590,7 @@ export default {
   color: var(--dl-color-gray-white);
   background-color: var(--dl-color-primary-100);
 }
-.home-image09 {
+.home-image08 {
   width: 600px;
   align-self: flex-end;
   object-fit: cover;
@@ -703,12 +605,12 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.home-image10 {
+.home-image09 {
   width: 600px;
   align-self: flex-end;
   object-fit: cover;
 }
-.home-container05 {
+.home-container04 {
   display: flex;
   margin-right: var(--dl-space-space-threeunits);
   padding-right: var(--dl-space-space-threeunits);
@@ -754,7 +656,7 @@ export default {
   flex-direction: row;
   justify-content: space-between;
 }
-.home-container06 {
+.home-container05 {
   display: flex;
   margin-right: var(--dl-space-space-threeunits);
   padding-right: var(--dl-space-space-threeunits);
@@ -789,7 +691,7 @@ export default {
   color: var(--dl-color-gray-white);
   background-color: var(--dl-color-primary-100);
 }
-.home-image11 {
+.home-image10 {
   width: 600px;
   align-self: flex-end;
   object-fit: cover;
@@ -804,7 +706,7 @@ export default {
   justify-content: center;
   background-color: #f7f7f7;
 }
-.home-container07 {
+.home-container06 {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -819,7 +721,7 @@ export default {
   margin-bottom: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-threeunits);
 }
-.home-image12 {
+.home-image11 {
   width: 100%;
   margin-top: var(--dl-space-space-twounits);
 }
@@ -858,7 +760,7 @@ export default {
   justify-content: space-between;
   background-color: #000000;
 }
-.home-container08 {
+.home-container07 {
   width: 100%;
   display: flex;
   align-items: stretch;
@@ -872,7 +774,7 @@ export default {
   flex-direction: column;
   justify-content: flex-start;
 }
-.home-image13 {
+.home-image12 {
   width: var(--dl-size-size-large);
   height: auto;
 }
@@ -882,11 +784,11 @@ export default {
   margin-top: 0px;
   padding-right: var(--dl-space-space-sixunits);
 }
-.home-container09 {
+.home-container08 {
   width: 50%;
   display: flex;
 }
-.home-container10 {
+.home-container09 {
   gap: var(--dl-space-space-fourunits);
   display: flex;
 }
@@ -980,7 +882,7 @@ export default {
   font-weight: 700;
   margin-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.home-icon-group1 {
+.home-icon-group {
   fill: white;
   display: flex;
   align-items: center;
@@ -990,7 +892,7 @@ export default {
 .home-link10 {
   display: contents;
 }
-.home-icon10 {
+.home-icon {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-unit);
@@ -999,7 +901,7 @@ export default {
 .home-link11 {
   display: contents;
 }
-.home-icon12 {
+.home-icon2 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-unit);
@@ -1008,7 +910,7 @@ export default {
 .home-link12 {
   display: contents;
 }
-.home-icon14 {
+.home-icon4 {
   width: var(--dl-size-size-xsmall);
   height: 24px;
   margin-right: var(--dl-space-space-unit);
@@ -1017,7 +919,7 @@ export default {
 .home-link13 {
   display: contents;
 }
-.home-icon16 {
+.home-icon6 {
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
   margin-right: var(--dl-space-space-unit);
@@ -1042,7 +944,7 @@ export default {
     align-self: center;
     text-align: center;
   }
-  .home-container08 {
+  .home-container07 {
     width: 100%;
     align-self: flex-start;
   }
@@ -1056,10 +958,10 @@ export default {
     margin-right: 0px;
     padding-right: 0px;
   }
-  .home-container09 {
+  .home-container08 {
     width: 50%;
   }
-  .home-container10 {
+  .home-container09 {
     gap: 0;
     width: auto;
   }
@@ -1071,7 +973,7 @@ export default {
   .home-hero {
     flex-direction: column;
   }
-  .home-container02 {
+  .home-container01 {
     align-items: center;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -1091,7 +993,7 @@ export default {
   .home-text05 {
     align-self: center;
   }
-  .home-container03 {
+  .home-container02 {
     gap: var(--dl-space-space-threeunits);
     width: 100%;
     flex-wrap: wrap;
@@ -1099,7 +1001,7 @@ export default {
   .home-hero1 {
     flex-direction: column;
   }
-  .home-container04 {
+  .home-container03 {
     align-items: center;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -1114,16 +1016,16 @@ export default {
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
   }
-  .home-image09 {
+  .home-image08 {
     width: 100%;
   }
   .home-hero2 {
     flex-direction: column;
   }
-  .home-image10 {
+  .home-image09 {
     width: 100%;
   }
-  .home-container05 {
+  .home-container04 {
     margin-top: var(--dl-space-space-twounits);
     align-items: center;
     margin-right: 0px;
@@ -1142,7 +1044,7 @@ export default {
   .home-hero3 {
     flex-direction: column;
   }
-  .home-container06 {
+  .home-container05 {
     align-items: center;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -1156,13 +1058,13 @@ export default {
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
   }
-  .home-image11 {
+  .home-image10 {
     width: 100%;
   }
   .home-hero4 {
     flex-direction: column;
   }
-  .home-container07 {
+  .home-container06 {
     align-items: center;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -1173,13 +1075,13 @@ export default {
   .home-text39 {
     text-align: center;
   }
-  .home-image12 {
+  .home-image11 {
     width: 80%;
   }
   .home-footer {
     flex-direction: column;
   }
-  .home-container08 {
+  .home-container07 {
     gap: var(--dl-space-space-fourunits);
     flex-direction: column;
     justify-content: flex-start;
@@ -1196,14 +1098,6 @@ export default {
   .home-btn-group {
     display: none;
   }
-  .home-burger-menu {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .home-icon {
-    width: var(--dl-size-size-medium);
-  }
   .home-hero {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -1212,7 +1106,7 @@ export default {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .home-image02 {
+  .home-image01 {
     width: 80%;
   }
   .home-features {
@@ -1223,7 +1117,7 @@ export default {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-container04 {
+  .home-container03 {
     align-self: center;
     align-items: flex-start;
   }
@@ -1239,7 +1133,7 @@ export default {
     padding-left: 0px;
     padding-right: var(--dl-space-space-halfunit);
   }
-  .home-image09 {
+  .home-image08 {
     width: 100%;
     align-self: center;
   }
@@ -1247,11 +1141,11 @@ export default {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-image10 {
+  .home-image09 {
     width: 100%;
     align-self: center;
   }
-  .home-container05 {
+  .home-container04 {
     align-self: center;
     margin-top: var(--dl-space-space-twounits);
     align-items: flex-start;
@@ -1276,7 +1170,7 @@ export default {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-container06 {
+  .home-container05 {
     align-self: center;
     align-items: flex-start;
   }
@@ -1293,7 +1187,7 @@ export default {
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .home-image11 {
+  .home-image10 {
     width: 80%;
     align-self: center;
   }
@@ -1312,7 +1206,7 @@ export default {
   .home-logo {
     align-items: center;
   }
-  .home-image13 {
+  .home-image12 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
   .home-text44 {
@@ -1329,21 +1223,13 @@ export default {
     width: var(--dl-size-size-xlarge);
     height: auto;
   }
-  .home-icon {
-    width: var(--dl-size-size-small);
-    height: 30px;
-  }
-  .home-mobile-menu {
-    display: none;
-    padding: 16px;
-  }
   .home-hero {
     padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .home-container02 {
+  .home-container01 {
     margin-bottom: var(--dl-space-space-unit);
   }
   .home-text {
@@ -1352,7 +1238,7 @@ export default {
   .home-btn-group1 {
     flex-direction: column;
   }
-  .home-image02 {
+  .home-image01 {
     width: 100%;
     margin-top: var(--dl-space-space-unit);
     margin-left: 0px;
@@ -1365,14 +1251,14 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .home-container03 {
+  .home-container02 {
     flex-wrap: wrap;
     justify-content: center;
   }
-  .home-image05 {
+  .home-image04 {
     width: var(--dl-size-size-xlarge);
   }
-  .home-image06 {
+  .home-image05 {
     width: var(--dl-size-size-xlarge);
   }
   .home-hero1 {
@@ -1381,7 +1267,7 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .home-container04 {
+  .home-container03 {
     margin-bottom: var(--dl-space-space-unit);
   }
   .home-text06 {
@@ -1406,7 +1292,7 @@ export default {
     align-self: center;
     text-align: center;
   }
-  .home-image09 {
+  .home-image08 {
     align-self: center;
   }
   .home-hero2 {
@@ -1415,10 +1301,10 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .home-image10 {
+  .home-image09 {
     align-self: center;
   }
-  .home-container05 {
+  .home-container04 {
     padding-top: var(--dl-space-space-twounits);
     margin-bottom: var(--dl-space-space-unit);
   }
@@ -1448,7 +1334,7 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .home-container06 {
+  .home-container05 {
     padding-top: var(--dl-space-space-twounits);
     margin-bottom: var(--dl-space-space-unit);
   }
@@ -1471,7 +1357,7 @@ export default {
     align-self: center;
     text-align: center;
   }
-  .home-image11 {
+  .home-image10 {
     align-self: center;
   }
   .home-hero4 {
@@ -1481,7 +1367,7 @@ export default {
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-unit);
   }
-  .home-container07 {
+  .home-container06 {
     margin-bottom: var(--dl-space-space-unit);
   }
   .home-text38 {
@@ -1490,7 +1376,7 @@ export default {
   .home-text39 {
     font-size: 18px;
   }
-  .home-image12 {
+  .home-image11 {
     width: 100%;
   }
   .home-link04 {
@@ -1501,7 +1387,7 @@ export default {
   .home-footer {
     padding: var(--dl-space-space-unit);
   }
-  .home-container08 {
+  .home-container07 {
     width: 100%;
   }
   .home-logo {
@@ -1509,7 +1395,7 @@ export default {
     align-items: center;
     padding-right: 0px;
   }
-  .home-image13 {
+  .home-image12 {
     width: var(--dl-size-size-large);
     margin-bottom: 0px;
   }
@@ -1517,13 +1403,13 @@ export default {
     margin-top: var(--dl-space-space-halfunit);
     margin-bottom: var(--dl-space-space-halfunit);
   }
-  .home-container09 {
+  .home-container08 {
     width: 100%;
     position: relative;
     flex-wrap: wrap;
     flex-direction: column;
   }
-  .home-container10 {
+  .home-container09 {
     flex-wrap: wrap;
     align-self: stretch;
     justify-content: space-between;
@@ -1549,10 +1435,10 @@ export default {
   .home-text53 {
     margin-top: var(--dl-space-space-unit);
   }
-  .home-icon10 {
+  .home-icon {
     margin-right: var(--dl-space-space-unit);
   }
-  .home-icon14 {
+  .home-icon4 {
     width: var(--dl-size-size-xsmall);
     margin-right: var(--dl-space-space-unit);
   }

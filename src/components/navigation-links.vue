@@ -8,14 +8,6 @@
     >
       {{ text }}
     </a>
-    <a
-      href="https://timesync.novocall.co/mecaca/mecaca-sales-meeting/"
-      target="_blank"
-      rel="noreferrer noopener"
-      class="navigation-links-link"
-    >
-      {{ text1 }}
-    </a>
   </nav>
 </template>
 
@@ -27,10 +19,6 @@ export default {
     text: {
       type: String,
       default: 'Login',
-    },
-    text1: {
-      type: String,
-      default: 'Schedule a demo',
     },
   },
 }
@@ -44,10 +32,6 @@ export default {
   flex-direction: row;
 }
 .navigation-links-text {
-  text-decoration: none;
-}
-.navigation-links-link {
-  margin-left: var(--dl-space-space-twounits);
   text-decoration: none;
 }
 
@@ -69,12 +53,15 @@ export default {
   .navigation-links-text {
     margin-bottom: var(--dl-space-space-unit);
   }
-  .navigation-links-link {
-    margin-left: 0;
-    margin-bottom: var(--dl-space-space-unit);
-  }
 }
 @media(max-width: 479px) {
+  .navigation-links-text {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    margin-right: var(--dl-space-space-unit);
+    margin-bottom: 0px;
+  }
   .navigation-links-root-class-name10 {
     display: flex;
   }
