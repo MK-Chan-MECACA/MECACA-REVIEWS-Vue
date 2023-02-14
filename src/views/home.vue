@@ -75,8 +75,8 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="rawvr63"></span></span>
-          <span><span v-html="raw1b5g"></span></span>
+          <span><span v-html="rawpeuj"></span></span>
+          <span><span v-html="rawmamo"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
@@ -255,8 +255,8 @@
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="rawvhkz"></span></span>
-          <span><span v-html="raww7w4"></span></span>
+          <span><span v-html="rawayi3"></span></span>
+          <span><span v-html="raw4rgp"></span></span>
         </span>
       </div>
       <img
@@ -418,10 +418,10 @@ export default {
   },
   data() {
     return {
-      rawvr63: ' ',
-      raw1b5g: ' ',
-      rawvhkz: ' ',
-      raww7w4: ' ',
+      rawpeuj: ' ',
+      rawmamo: ' ',
+      rawayi3: ' ',
+      raw4rgp: ' ',
     }
   },
   metaInfo: {
@@ -1334,7 +1334,7 @@ export default {
     height: 30px;
   }
   .home-mobile-menu {
-    display: flex;
+    display: none;
     padding: 16px;
   }
   .home-hero {
