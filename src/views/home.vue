@@ -37,17 +37,17 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="raw1zxt"></span></span>
-          <span><span v-html="rawxghj"></span></span>
+          <span><span v-html="rawoqgl"></span></span>
+          <span><span v-html="rawwzh6"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
-            href="https://timesync.novocall.co/mecaca/mecaca-sales-meeting/"
+            href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
             target="_blank"
             rel="noreferrer noopener"
             class="home-link button"
           >
-            SCHEDULE A DEMO
+            Start 14 days Free Trial
           </a>
         </div>
       </div>
@@ -117,12 +117,12 @@
           </span>
         </span>
         <a
-          href="https://timesync.novocall.co/mecaca/mecaca-sales-meeting/"
+          href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
           target="_blank"
           rel="noreferrer noopener"
           class="home-link01 button"
         >
-          SCHEDULE A DEMO
+          Start 14 days Free Trial
         </a>
       </div>
       <img
@@ -161,12 +161,12 @@
           </span>
         </span>
         <a
-          href="https://timesync.novocall.co/mecaca/mecaca-sales-meeting/"
+          href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
           target="_blank"
           rel="noreferrer noopener"
           class="home-link02 button"
         >
-          SCHEDULE A DEMO
+          Start 14 days Free Trial
         </a>
       </div>
     </div>
@@ -198,12 +198,12 @@
           </span>
         </span>
         <a
-          href="https://timesync.novocall.co/mecaca/mecaca-sales-meeting/"
+          href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
           target="_blank"
           rel="noreferrer noopener"
           class="home-link03 button"
         >
-          SCHEDULE A DEMO
+          Start 14 days Free Trial
         </a>
       </div>
       <img
@@ -217,8 +217,8 @@
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="raw9wxw"></span></span>
-          <span><span v-html="rawuud7"></span></span>
+          <span><span v-html="rawadve"></span></span>
+          <span><span v-html="rawcmwz"></span></span>
         </span>
       </div>
       <img
@@ -228,12 +228,12 @@
       />
       <h1 class="home-text43">START TODAY</h1>
       <a
-        href="https://timesync.novocall.co/mecaca/mecaca-sales-meeting/"
+        href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
         target="_blank"
         rel="noreferrer noopener"
         class="home-link04 button"
       >
-        SCHEDULE A DEMO
+        Start 14 days Free Trial
       </a>
     </div>
     <footer class="home-footer">
@@ -380,10 +380,10 @@ export default {
   },
   data() {
     return {
-      raw1zxt: ' ',
-      rawxghj: ' ',
-      raw9wxw: ' ',
-      rawuud7: ' ',
+      rawoqgl: ' ',
+      rawwzh6: ' ',
+      rawadve: ' ',
+      rawcmwz: ' ',
     }
   },
   metaInfo: {
@@ -494,7 +494,6 @@ export default {
   border-radius: 20px;
   padding-right: var(--dl-space-space-twounits);
   padding-bottom: var(--dl-space-space-unit);
-  text-decoration: none;
   background-color: var(--dl-color-gray-black);
 }
 .home-link:hover {
