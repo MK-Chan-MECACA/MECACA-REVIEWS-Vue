@@ -37,12 +37,12 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="rawoqgl"></span></span>
-          <span><span v-html="rawwzh6"></span></span>
+          <span><span v-html="raw953t"></span></span>
+          <span><span v-html="rawuo7h"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
-            href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
+            href="https://client.mecaca.com/subscribe/6410808d7a842740cfea825b/mecaca-reviews-monthly"
             target="_blank"
             rel="noreferrer noopener"
             class="home-link button"
@@ -117,7 +117,7 @@
           </span>
         </span>
         <a
-          href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
+          href="https://client.mecaca.com/subscribe/6410808d7a842740cfea825b/mecaca-reviews-monthly"
           target="_blank"
           rel="noreferrer noopener"
           class="home-link01 button"
@@ -161,7 +161,7 @@
           </span>
         </span>
         <a
-          href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
+          href="https://client.mecaca.com/subscribe/6410808d7a842740cfea825b/mecaca-reviews-monthly"
           target="_blank"
           rel="noreferrer noopener"
           class="home-link02 button"
@@ -198,7 +198,7 @@
           </span>
         </span>
         <a
-          href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
+          href="https://client.mecaca.com/subscribe/6410808d7a842740cfea825b/mecaca-reviews-monthly"
           target="_blank"
           rel="noreferrer noopener"
           class="home-link03 button"
@@ -217,8 +217,8 @@
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="rawadve"></span></span>
-          <span><span v-html="rawcmwz"></span></span>
+          <span><span v-html="rawcrka"></span></span>
+          <span><span v-html="rawxsjz"></span></span>
         </span>
       </div>
       <img
@@ -228,7 +228,7 @@
       />
       <h1 class="home-text43">START TODAY</h1>
       <a
-        href="https://buy.stripe.com/aEU03sgIVd4o4GA8wx"
+        href="https://client.mecaca.com/subscribe/6410808d7a842740cfea825b/mecaca-reviews-monthly"
         target="_blank"
         rel="noreferrer noopener"
         class="home-link04 button"
@@ -380,10 +380,10 @@ export default {
   },
   data() {
     return {
-      rawoqgl: ' ',
-      rawwzh6: ' ',
-      rawadve: ' ',
-      rawcmwz: ' ',
+      raw953t: ' ',
+      rawuo7h: ' ',
+      rawcrka: ' ',
+      rawxsjz: ' ',
     }
   },
   metaInfo: {
