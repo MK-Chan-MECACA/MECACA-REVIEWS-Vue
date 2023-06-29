@@ -1,11 +1,7 @@
 <template>
   <div class="home-container">
     <header data-role="Header" class="home-header">
-      <img
-        alt="logo"
-        src="/playground_assets/mecaca%20reviews-1500h.png"
-        class="home-image"
-      />
+      <img alt="logo" src="/mecaca%20reviews-1500h.png" class="home-image" />
       <div class="home-btn-group">
         <a
           href="https://reviews.mecaca.my/#/"
@@ -37,8 +33,8 @@
             company&apos;s reputation and attract new clients.
           </span>
           <br />
-          <span><span v-html="raw953t"></span></span>
-          <span><span v-html="rawuo7h"></span></span>
+          <span><span v-html="rawbnqo"></span></span>
+          <span><span v-html="rawf1w9"></span></span>
         </span>
         <div class="home-btn-group1">
           <a
@@ -53,43 +49,19 @@
       </div>
       <img
         alt="image"
-        src="/playground_assets/group-4319%20%5B1%5D-1500h.png"
+        src="/group-4319%20%5B1%5D-1500h.png"
         class="home-image01"
       />
     </div>
     <div class="home-features">
       <h1 class="home-text05">USED BY 300+ LOCAL BUSINESSES WORLDWIDE</h1>
       <div class="home-container02">
-        <img
-          alt="image"
-          src="/playground_assets/soundlife-hearing-200h.png"
-          class="home-image02"
-        />
-        <img
-          alt="image"
-          src="/playground_assets/ydyw-1-200h.png"
-          class="home-image03"
-        />
-        <img
-          alt="image"
-          src="/playground_assets/health%20shine-200h.png"
-          class="home-image04"
-        />
-        <img
-          alt="image"
-          src="/playground_assets/gi-logo-200h.png"
-          class="home-image05"
-        />
-        <img
-          alt="image"
-          src="/playground_assets/hamel%20%5B1%5D-200h.png"
-          class="home-image06"
-        />
-        <img
-          alt="image"
-          src="/playground_assets/artweme-200h.png"
-          class="home-image07"
-        />
+        <img alt="image" src="/soundlife-hearing-200h.png" class="home-image02" />
+        <img alt="image" src="/ydyw-1-200h.png" class="home-image03" />
+        <img alt="image" src="/health%20shine-200h.png" class="home-image04" />
+        <img alt="image" src="/gi-logo-200h.png" class="home-image05" />
+        <img alt="image" src="/hamel%20%5B1%5D-200h.png" class="home-image06" />
+        <img alt="image" src="/artweme-200h.png" class="home-image07" />
       </div>
     </div>
     <div class="home-hero1">
@@ -127,14 +99,14 @@
       </div>
       <img
         alt="image"
-        src="/playground_assets/group-3693-6%20%5B1%5D-1400w.png"
+        src="/group-3693-6%20%5B1%5D-1400w.png"
         class="home-image08"
       />
     </div>
     <div class="home-hero2">
       <img
         alt="image"
-        src="/playground_assets/group-4349-2-1%20%5B1%5D-1500h.png"
+        src="/group-4349-2-1%20%5B1%5D-1500h.png"
         class="home-image09"
       />
       <div class="home-container04">
@@ -208,7 +180,7 @@
       </div>
       <img
         alt="image"
-        src="/playground_assets/group-4349%20%5B1%5D-1400w.png"
+        src="/group-4349%20%5B1%5D-1400w.png"
         class="home-image10"
       />
     </div>
@@ -217,13 +189,13 @@
         <h1 class="home-text38">YOUR NEW REVIEW MANAGEMENT PLATFORM</h1>
         <span class="home-text39">
           <span>STOP WASTING TIME TO MANAGE YOUR REVIEWS.</span>
-          <span><span v-html="rawcrka"></span></span>
-          <span><span v-html="rawxsjz"></span></span>
+          <span><span v-html="rawb5fx"></span></span>
+          <span><span v-html="raw3n5t"></span></span>
         </span>
       </div>
       <img
         alt="image"
-        src="/playground_assets/group-4295-4%20%5B1%5D-1500h.png"
+        src="/group-4295-4%20%5B1%5D-1500h.png"
         class="home-image11"
       />
       <h1 class="home-text43">START TODAY</h1>
@@ -241,7 +213,7 @@
         <div class="home-logo">
           <img
             alt="logo"
-            src="/playground_assets/mecaca%20reviews%203-200h.png"
+            src="/external/group%2024-200h.png"
             class="home-image12"
           />
           <span class="home-text44">
@@ -380,10 +352,10 @@ export default {
   },
   data() {
     return {
-      raw953t: ' ',
-      rawuo7h: ' ',
-      rawcrka: ' ',
-      rawxsjz: ' ',
+      rawbnqo: ' ',
+      rawf1w9: ' ',
+      rawb5fx: ' ',
+      raw3n5t: ' ',
     }
   },
   metaInfo: {
@@ -785,7 +757,7 @@ export default {
 .home-text44 {
   color: var(--dl-color-gray-white);
   width: 100%;
-  margin-top: 0px;
+  margin-top: var(--dl-space-space-twounits);
   padding-right: var(--dl-space-space-sixunits);
 }
 .home-container08 {
@@ -1409,8 +1381,8 @@ export default {
     margin-bottom: 0px;
   }
   .home-text44 {
-    margin-top: var(--dl-space-space-halfunit);
-    margin-bottom: var(--dl-space-space-halfunit);
+    margin-top: var(--dl-space-space-unit);
+    margin-bottom: var(--dl-space-space-unit);
   }
   .home-container08 {
     width: 100%;
